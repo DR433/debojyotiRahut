@@ -1,7 +1,0 @@
-This is version 1.0.00 of my project Git
-I want This version to go into commit number 2 now . 
-This app version just changed into V 1.2.0
-I want this version to go into commit number 3 now .
-Adding some specific things now . 
-but now I am thinking adding some other things before committing.
-Adding some text again. Nope not adding anything .
