@@ -7,3 +7,4 @@ but now I am thinking adding some other things before committing.
 Adding some text again. Nope not adding anything .
 Ignoring this file will not help you in any way .
 You just ignored my anyway .
+Some random texts are added .
